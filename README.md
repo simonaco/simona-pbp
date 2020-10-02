@@ -129,7 +129,7 @@ Awesome! Let’s next look into configuring [Docker](https://www.docker.com/) an
 ![](https://cdn-images-1.medium.com/max/1600/1*H--QYmkysfKP7KN0r4KcTA.png)
 
 Next we’ll need an Azure account. If you don’t have one, go ahead and register
-at [https://azure.microsoft.com/free](https://azure.microsoft.com/free). 
+at [https://azure.microsoft.com/free?WT.mc_id=simonapbp-github-sicotin](https://azure.microsoft.com/free?WT.mc_id=simonapbp-github-sicotin). 
 
 #### Build and push Docker image
 
@@ -211,7 +211,7 @@ To host your awesome-app you need to create new [Azure Web App for
 Containers](https://aka.ms/Bmrs81). 
 
 > [Web
-> App](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-overview)
+> App](https://docs.microsoft.com/azure/app-service/app-service-web-overview?WT.mc_id=simonapbp-github-sicotin)
 is a fully managed compute platform that is optimized for hosting websites and
 web applications.
 
